@@ -1,0 +1,13 @@
+C:\Users\ryanl\source\repos\MicroPact_Exam_RemoveCharacter\MicroPact_Exam_RemoveCharacter\bin\Debug\netcoreapp3.1\MicroPact_Exam_RemoveCharacter.exe
+C:\Users\ryanl\source\repos\MicroPact_Exam_RemoveCharacter\MicroPact_Exam_RemoveCharacter\bin\Debug\netcoreapp3.1\MicroPact_Exam_RemoveCharacter.deps.json
+C:\Users\ryanl\source\repos\MicroPact_Exam_RemoveCharacter\MicroPact_Exam_RemoveCharacter\bin\Debug\netcoreapp3.1\MicroPact_Exam_RemoveCharacter.runtimeconfig.json
+C:\Users\ryanl\source\repos\MicroPact_Exam_RemoveCharacter\MicroPact_Exam_RemoveCharacter\bin\Debug\netcoreapp3.1\MicroPact_Exam_RemoveCharacter.runtimeconfig.dev.json
+C:\Users\ryanl\source\repos\MicroPact_Exam_RemoveCharacter\MicroPact_Exam_RemoveCharacter\bin\Debug\netcoreapp3.1\MicroPact_Exam_RemoveCharacter.dll
+C:\Users\ryanl\source\repos\MicroPact_Exam_RemoveCharacter\MicroPact_Exam_RemoveCharacter\bin\Debug\netcoreapp3.1\MicroPact_Exam_RemoveCharacter.pdb
+C:\Users\ryanl\source\repos\MicroPact_Exam_RemoveCharacter\MicroPact_Exam_RemoveCharacter\obj\Debug\netcoreapp3.1\MicroPact_Exam_RemoveCharacter.csproj.CoreCompileInputs.cache
+C:\Users\ryanl\source\repos\MicroPact_Exam_RemoveCharacter\MicroPact_Exam_RemoveCharacter\obj\Debug\netcoreapp3.1\MicroPact_Exam_RemoveCharacter.AssemblyInfoInputs.cache
+C:\Users\ryanl\source\repos\MicroPact_Exam_RemoveCharacter\MicroPact_Exam_RemoveCharacter\obj\Debug\netcoreapp3.1\MicroPact_Exam_RemoveCharacter.AssemblyInfo.cs
+C:\Users\ryanl\source\repos\MicroPact_Exam_RemoveCharacter\MicroPact_Exam_RemoveCharacter\obj\Debug\netcoreapp3.1\MicroPact_Exam_RemoveCharacter.dll
+C:\Users\ryanl\source\repos\MicroPact_Exam_RemoveCharacter\MicroPact_Exam_RemoveCharacter\obj\Debug\netcoreapp3.1\MicroPact_Exam_RemoveCharacter.pdb
+C:\Users\ryanl\source\repos\MicroPact_Exam_RemoveCharacter\MicroPact_Exam_RemoveCharacter\obj\Debug\netcoreapp3.1\MicroPact_Exam_RemoveCharacter.genruntimeconfig.cache
+C:\Users\ryanl\source\repos\MicroPact_Exam_RemoveCharacter\MicroPact_Exam_RemoveCharacter\obj\Debug\netcoreapp3.1\MicroPact_Exam_RemoveCharacter.csprojAssemblyReference.cache
